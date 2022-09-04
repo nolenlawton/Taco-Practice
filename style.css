@@ -1,0 +1,25 @@
+body {
+  background-color: green;
+}
+
+h1 {
+  color: white;
+  font-size: 38px;
+  font-family: Arial
+}
+
+.header {
+  background-color: grey;
+  padding-left: 100px;
+  border: 8px solid black
+}
+
+img {
+  width: 100%
+}
+
+p, li {
+  color: white;
+  font-family: arial
+  
+}
